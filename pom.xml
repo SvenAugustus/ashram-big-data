@@ -27,12 +27,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>xyz.flysium.bd</groupId>
-  <artifactId>ng-big-data-bucket-pom</artifactId>
+  <artifactId>ashram-big-data-pom</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Big Data bucket POM</name>
   <description>Parent pom of Big Data Bucket.</description>
-  <url>https://github.com/SvenAugustus/ng-big-data-bucket</url>
+  <url>https://github.com/SvenAugustus/ashram-big-data</url>
   <inceptionYear>2020</inceptionYear>
   <licenses>
     <license>
@@ -44,15 +44,15 @@
 
   <scm>
     <tag>master</tag><!-- <tag>v${project.version}</tag> -->
-    <url>git@github.com:SvenAugustus/ng-big-data-bucket.git</url>
-    <connection>scm:git@github.com:SvenAugustus/ng-big-data-bucket.git</connection>
-    <developerConnection>scm:git@github.com:SvenAugustus/ng-big-data-bucket.git
+    <url>git@github.com:SvenAugustus/ashram-big-data.git</url>
+    <connection>scm:git@github.com:SvenAugustus/ashram-big-data.git</connection>
+    <developerConnection>scm:git@github.com:SvenAugustus/ashram-big-data.git
     </developerConnection>
   </scm>
 
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>https://github.com/SvenAugustus/ng-big-data-bucket/issues</url>
+    <url>https://github.com/SvenAugustus/ashram-big-data/issues</url>
   </issueManagement>
 
   <developers>
