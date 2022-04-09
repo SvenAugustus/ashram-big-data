@@ -10,6 +10,10 @@ The bucket of Big Data Samples.
 
 #### Guidelines
 
+##### Spark
+
+* [x] spark-graphx-pregel: samples for [`Spark GraphX`](https://spark.apache.org/graphx/) in Scala.
+
 ##### Distributed Coordination
 
 * [x] zookeeper-samples: samples for [`Zookeeper`](https://zookeeper.apache.org) in Java.

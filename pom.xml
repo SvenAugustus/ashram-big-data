@@ -122,6 +122,7 @@
 
   <modules>
     <module>zookeeper-samples</module>
+    <module>spark/spark-graphx-pregel</module>
   </modules>
 
 </project>
